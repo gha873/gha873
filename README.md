@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I am Systems Engineering Student at Harvard
+Love Software Development
 <!--
 **gha873/gha873** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
